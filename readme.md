@@ -19,7 +19,3 @@ O objetivo deste repositório é ajudar a comunidade a se desenvolver , além de
 
 ## Documentacao e explicacao da versao atual:
 [Artigo Linkedin](https://www.linkedin.com/pulse/scanner-de-portas-python-gustavo-de-oliveira-rosa/)
-
-
-
-![](https://giphy.com/embed/YQitE4YNQNahy)
