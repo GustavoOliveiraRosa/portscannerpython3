@@ -17,5 +17,13 @@ O objetivo deste repositório é ajudar a comunidade a se desenvolver , além de
 - [ ] Armazenar os dados de cada pesquisa em um banco de dados.
 
 
+## Como usar
+
+- Após clonar o repositório, use o seguinte comando: $ python3 index.py , e siga as instruções.
+
+![](exemplo.gif)
+
+
 ## Documentacao e explicacao da versao atual:
 [Artigo Linkedin](https://www.linkedin.com/pulse/scanner-de-portas-python-gustavo-de-oliveira-rosa/)
+
